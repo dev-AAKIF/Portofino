@@ -57,7 +57,7 @@ function Card() {
           </p>
         </div>
 
-        <div className="p-4 border-t mx-10">
+        <div className="p-4 border-t mx-10 flex justify-center items-center">
           <button className="block rounded-full bg-gray-900 hover:shadow-lg font-semibold text-white -ml-4 px-6 py-2 w-[22.5vw]" onClick={() => setOpen(true)}>
             View Portfolio
           </button>
