@@ -16,8 +16,7 @@ Cloudinary for CloudSDtorage of Image
 
 Deployed using Render
 
-FrontENd Link of Deployment :- https://selfolio-client.onrender.com
+FrontENd Link of Deployment :- https://portofino-frontend.onrender.com/
 
-BackEnd link of Deployment :- https://selfolio-server.onrender.com
-
-Github Link of the Project :- https://github.com/dev-AAKIF/Selfolio
+BackEnd link of Deployment :- https://portofino-backend.onrender.com/
+Github Link of the Project :- https://github.com/dev-AAKIF/Portofino/
